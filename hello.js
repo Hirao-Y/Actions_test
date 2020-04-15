@@ -1,1 +1,1 @@
-Console.log('書き換え');
+Console.log('書き換えsuru');
